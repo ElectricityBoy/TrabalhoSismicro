@@ -1,7 +1,7 @@
 <!-- <h1 align="center" id="atmega328">
  </h1> -->
 
-# Utilização de um ATmega328 como um aquisiçãoo de dados em uma estação meteorológica
+# Utilização de um ATmega328 como um sistema de aquisição de dados em uma estação meteorológica
 
 ## 💻 Projeto avaliativo da disciplina ENGC50 - Sistemas Microprocessados
 
