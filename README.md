@@ -13,5 +13,16 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ## :film_strip: Simulação no sotftware Proteus
 
 <center>
-<img src="C:Img\Simulação.jpg"/><br>
+<img src="assets\Simulação.jpg"/>
 </center>
+
+
+<center>
+<img src="assets\dhtfinal-Proteus-8-Professional-Schematic-Capture-2021-10-13-19-54-36.gif"/>
+</center>
+
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
+
+[⬆ Voltar ao topo](#Utilização de um ATmega328 como um aquisiçãoo de dados em uma estação meteorológica)<br>
