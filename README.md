@@ -28,4 +28,4 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
-[⬆ Voltar ao topo](#atmega328)<br>
+[⬆ Voltar ao topo](#atmega328)
