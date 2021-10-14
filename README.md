@@ -11,7 +11,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Implementação dos protocolos de comunicação
 - [x] Implementação e Simulação dos Sensores
 - [x] Implementação de um data logger
-- [ ] Implementação de comunicação sem fio usando RTC
+- [ ] Implementação de comunicação sem fio
 
 ## :film_strip: Simulação no sotftware Proteus
 
